@@ -6,13 +6,13 @@ A frontend interface for a **Multi-Tenant Law Portal** designed to help law firm
 
 ## Features
 
-- ✅ **Responsive UI** — Mobile-friendly and accessible design  
-- 📅 **Calendar Integration** — Schedule and manage meetings  
-- 🧾 **Multi-Step & Update Forms** — Smooth data entry and editing  
-- 🔍 **Search & Filters** — Quickly access specific records  
-- 👤 **User Profile & Settings** — Personalized user experience  
-- 📊 **Client Table Management** — Structured and sortable data  
-- 🏢 **Multi-Tenant Architecture** — Separate firm-specific data and user access
+- **Responsive UI** — Mobile-friendly and accessible design  
+- **Calendar Integration** — Schedule and manage meetings  
+- **Multi-Step & Update Forms** — Smooth data entry and editing  
+- **Search & Filters** — Quickly access specific records  
+- **User Profile & Settings** — Personalized user experience  
+- **Client Table Management** — Structured and sortable data  
+- **Multi-Tenant Architecture** — Separate firm-specific data and user access
 
 ## Tech Stack
 
@@ -33,8 +33,6 @@ A frontend interface for a **Multi-Tenant Law Portal** designed to help law firm
 - **Nodemailer** — Email services (e.g., reminders)  
 - **RBAC (Role-Based Access Control)** — Tiered user permissions  
 - **Multi-Tenancy Logic** — Isolated data per law firm using tenant-aware architecture
-
-```
 
 ## Screenshots
 
